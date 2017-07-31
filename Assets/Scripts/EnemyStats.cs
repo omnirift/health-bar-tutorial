@@ -17,10 +17,6 @@ public class EnemyStats : MonoBehaviour {
     private void Update()
     {
         PositionHealthBar();
-        if (Input.GetKeyDown(KeyCode.Space)) 
-        {
-            ChangeHealth(-5);
-        }
     }
 
     public void ChangeHealth(int amount) 
