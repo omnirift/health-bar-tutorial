@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C2E20E87-0110-03CD-0154-ABAC9B085A2B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerWeapon.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerWeapon.cs" Line="31" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fire-gun-tutorial PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
